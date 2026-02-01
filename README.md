@@ -36,7 +36,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone https://github.com/Aayu91/Aayush-Portfolio.git
 
 # 2️⃣ Navigate to project directory
 cd Aayush-portfolio
@@ -68,6 +68,7 @@ Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 --
 > *“Showcasing my work and passion through technology 💻”*
+
 
 
 
