@@ -18,15 +18,15 @@ const PROJECTS = [
     ss: '/Docuchat.png',
     tech: ['DeepSeek API', 'javascrip', 'React', 'css'],
     live: '#',
-    code: 'https://github.com/Aayu91/Deepseek-ai'
+    code: 'https://github.com/Aayu91/Deepseek-AI'
   },
   {
     title: '📊 Credit Card Fraud Detection',
     desc: 'Smart data profiling and preprocessing web app for CSV datasets — feature summary, missing value handling, and visualization.',
     ss: '/ProfileX.png',
     tech: ['Streamlit', 'Pandas', 'Plotly'],
-    live: 'https://profilex.streamlit.app/',
-    code: 'https://github.com/kunjdesai/ProfileX'
+    live: '#',
+    code: 'https://github.com/Aayu91/CREDIT-CARD-FRAUD-DETECTION---ML-PROJECT'
   },
  
 ]
@@ -158,3 +158,4 @@ export default function Projects() {
     </motion.section>
   )
 }
+
