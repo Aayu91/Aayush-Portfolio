@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
+🌐 **Website:** [[[Aayush-Portfolio]]](https://aayush-portfolio-ten.vercel.app/)
 
 
 
@@ -39,7 +39,7 @@ To run this project locally:
 git clone https://github.com/kunj2803/kunjdesai-portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Aayush-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -48,7 +48,7 @@ npm install
 npm start or npm run dev
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+Now open [http://localhost:5173](http://localhost:5173) in your browser 🚀
 
 ---
 
@@ -68,5 +68,6 @@ Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 --
 > *“Showcasing my work and passion through technology 💻”*
+
 
 
